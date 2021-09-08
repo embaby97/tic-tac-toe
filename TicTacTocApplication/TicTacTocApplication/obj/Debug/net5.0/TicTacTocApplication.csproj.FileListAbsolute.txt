@@ -1,0 +1,16 @@
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\TicTacTocApplication.exe
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\TicTacTocApplication.deps.json
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\TicTacTocApplication.runtimeconfig.json
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\TicTacTocApplication.runtimeconfig.dev.json
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\TicTacTocApplication.dll
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\ref\TicTacTocApplication.dll
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\bin\Debug\net5.0\TicTacTocApplication.pdb
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.csproj.AssemblyReference.cache
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.AssemblyInfoInputs.cache
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.AssemblyInfo.cs
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.dll
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\ref\TicTacTocApplication.dll
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.pdb
+C:\Users\Alaa\source\repos\TicTacTocApplication\TicTacTocApplication\obj\Debug\net5.0\TicTacTocApplication.genruntimeconfig.cache
